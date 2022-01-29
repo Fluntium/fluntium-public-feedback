@@ -1,2 +1,2 @@
 # fluntium-public-feedback
-Repository for issue, feedback, feature requests - by help of issues
+Repository for issues or bugs, feedback, feature requests - by help of issues
